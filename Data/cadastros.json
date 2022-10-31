@@ -12,5 +12,12 @@
     "usuario": "teste",
     "email": "teste@teste",
     "senha": "teste"
+  },
+  {
+    "id": 16,
+    "nome": "Arthur Nakashima Henriques",
+    "usuario": "fasfafsafs",
+    "email": "arthurhenriquesn31@gmail.com",
+    "senha": "12222"
   }
 ]

@@ -557,6 +557,316 @@
     "lon": -68.011420,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpN5c0uhDdS9ZXUq47Y-3-m9F9cc_pMielyQ&usqp=CAU",
     "legenda": "Magallanes"
-}
+},
+{
+  "Capital": "Maracaíbo",
+      "Estado": "Zulia",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 7.935560,
+      "lon": -72.605042,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFFHgdAqlv9Wpj6dk28JX25XVFyM2bk0xIvQ&usqp=CAU",
+      "legenda": "Zulia"
+  },
+  {
+  "Capital": "Coro",
+      "Estado": "Falcon",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 9.910910,
+      "lon": -68.309151,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1pT5IPKU2IunQVqencLz4Q0yOyVXoclC9bA&usqp=CAU",
+      "legenda": "Coro"
+  },
+  {
+  "Capital": "Barquisimet",
+      "Estado": "Lara",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 10.077375,
+      "lon": -70.034343,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWReixCAgSvBaefn8XlW4msCIb-bMr1txedQ&usqp=CAU",
+      "legenda": "Lara"
+  },
+  {
+  "Capital": "Trujillo",
+      "Estado": "Trujillo",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 9.374670,
+      "lon": -70.431830,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTBBZjrwXzX2zyVv2muMaFY7y7VAR5kieKvw&usqp=CAU",
+      "legenda": "Trujillo"
+  },
+  {
+  "Capital": "Merida",
+      "Estado": "Merida",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 8.548600,
+      "lon": -71.249832,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjPQluDPHyTuzQ19knIVEM5BXUb0qLKDYlQ&usqp=CAU",
+      "legenda": "Merida"
+  },
+  {
+  "Capital": "Tachira",
+      "Estado": "Tachira",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 7.917963,
+      "lon": -71.944362,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4sWmV0JucmbXW0MOaWdNlf0y24ZJ5hD2n_A&usqp=CAU",
+      "legenda": "Tachira"
+  },
+  {
+  "Capital": "Yaracuy",
+      "Estado": "Yaracuy",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 10.268330,
+      "lon": -68.740494,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD3ruVmM3r-h78TB-8uBLMdz99MtM-tBOzmA&usqp=CAU",
+      "legenda": "Yaracuy"
+  },
+  {
+  "Capital": "Portuguesa",
+      "Estado":"Portuguesa",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 9.028810,
+      "lon": -69.275130,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLaszMr-OJQohAYqVN8FbC1xsFmQ1_uiegA&usqp=CAU",
+      "legenda": "Portuguesa"
+  },
+  {
+  "Capital": "Barinas",
+      "Estado":"Barinas",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 8.593490,
+      "lon": -70.174700,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgludX10HjbdfsY6I46mC1pEwBIa5I5_0iw&usqp=CAU",
+      "legenda": "Barinas"
+  },
+  {
+  "Capital": "Apure",
+      "Estado":"Apure",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 7.132130,
+      "lon": -68.813100,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4dVvELkq7NtPXm_SDVVda8TPIDQHFYDYmA&usqp=CAU",
+      "legenda": "Apure"
+  },
+  {
+  "Capital": "Carabobo",
+      "Estado":"Carabobo",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 10.152915,
+      "lon": -68.075194,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucyyMUriYfMVvIyIt_a02sOjrW8fgIO9AgQ&usqp=CAU",
+      "legenda": "Carabobo"
+  },
+  {
+  "Capital": "Cojedes",
+      "Estado":"Cojedes",
+      "Sigla": "VE",
+      "Região": "Oeste",
+      "lat": 9.307873,
+      "lon": -68.362043,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGjRxBzlKZuUo3Pa8sMIi4yhkoF8I7G2CDQ&usqp=CAU",
+      "legenda": "Cojedes"
+  },
+  {
+  "Capital": "Aragua",
+      "Estado":"Aragua",
+      "Sigla": "VE",
+      "Região": "Norte",
+      "lat": 9.950992,
+      "lon": -66.933005,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsrFPiWG7P9TiaPO05GkVrwcBaZn_5_d8jeg&usqp=CAU",
+      "legenda": "Aragua"
+  },
+  {
+  "Capital": "Guarico",
+      "Estado":"Guarico",
+      "Sigla": "VE",
+      "Região": "Norte",
+      "lat": 8.827330,
+      "lon": -66.530820,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblp_GnkVN4q4FQfLoNhYnVXSB7cGdzBnRww&usqp=CAU",
+      "legenda": "Guarico"
+  },
+  {
+  "Capital": "Miranda",
+      "Estado":"Miranda",
+      "Sigla": "VE",
+      "Região": "Norte",
+      "lat": 10.725880,
+      "lon": -71.516586,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDV6Lsv3fP5E0bcBg_2e7jm1KrqhGnS34E3A&usqp=CAU",
+      "legenda": "Miranda"
+  },
+  {
+  "Capital": "Anzoategui",
+      "Estado":"Anzoategui",
+      "Sigla": "VE",
+      "Região": "Norte",
+      "lat": 9.020177,
+      "lon": -64.147357,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDV6Lsv3fP5E0bcBg_2e7jm1KrqhGnS34E3A&usqp=CAU",
+      "legenda": "Anzoategui"
+  },
+  {
+    "Capital": "Tucupita",
+        "Estado": "Delta Amacuro",
+        "Sigla": "VE",
+        "Região": "Leste",
+        "lat": 9.060885,
+        "lon": -62.041956,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYoAaYU779s3SclozyKaTg3gFJrXHn5ePww&usqp=CAU",
+        "legenda": "Delta Amacuro"
+    },
+    {
+    "Capital": "Cumaná",
+        "Estado": "Sucre",
+        "Sigla": "VE",
+        "Região": "Leste",
+        "lat": 10.438140,
+        "lon": -64.117310,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIuTeCTeP_ILoeB6b2-v0gbCiJQZM87sXw&usqp=CAU",
+        "legenda": "Sucre"
+    },
+    {
+    "Capital": "Maturín",
+        "Estado": "Monagras",
+        "Sigla": "VE",
+        "Região": "Leste",
+        "lat": 9.345034,
+        "lon": -63.175740,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi26YEP3LEQpJas9vOHI1dsu1GYvCAyX8TyA&usqp=CAU",
+        "legenda": "Monagras"
+    },
+    {
+    "Capital": "Ciudad Bolívar",
+        "Estado": "Bolívar",
+        "Sigla": "VE",
+        "Região": "Sul",
+        "lat": 8.096769,
+        "lon": -63.560942,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lpcfMXVbyy8CYwmWayAtIow3HjTfaC_WTg&usqp=CAU",
+        "legenda": "Bolívar"
+    },
+    {
+    "Capital": "Puerto Ayacucho",
+        "Estado": "Amazonas",
+        "Sigla": "VE",
+        "Região": "Sul",
+        "lat": 5.646885,
+        "lon": -67.592953,
+        "img": "https://media.istockphoto.com/photos/panoramic-of-pasimoni-river-rio-negro-venezuela-picture-id486032754?k=20&m=486032754&s=612x612&w=0&h=4Sfn2vQurpPxCc36-ZeYhwnBwThvq-YUxO9-7lKAxvc=",
+        "legenda": "Amazonas"
+    },
+    {
+      "Capital": "New Amsterdam",
+          "Estado": "East Berbice-Corentyne",
+          "Sigla": "GU",
+          "Região": "Sul",
+          "lat": 3.368532,
+          "lon": -59.794888,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXL0QWpRaA_JHmJb9NRx2SoPX0ZzhEDjU1OvDoLWR2EX58EqgRLwfdpZsxe6wahhf0oQU&usqp=CAU",
+          "legenda": "East Berbice-Corentyne"
+      },
+      {
+      "Capital": "Lethem",
+          "Estado": "Upper Takutu-Upper Essequibo",
+          "Sigla": "GU",
+          "Região": "Sul",
+          "lat": 3.368532,
+          "lon": -59.794888,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYS8z8R34XEj4_Fv1h52F671cWdS9_kNSVQ&usqp=CAU",
+          "legenda": "Upper Takutu-Upper Essequibo"
+      },
+      {
+      "Capital": "Mahdia",
+          "Estado": "Potaro-Siparuni",
+          "Sigla": "GU",
+          "Região": "Centro",
+          "lat": 5.262205,
+          "lon": -59.132530,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMhyvZPirQ_DtoKRxf7LOuQZ29jSAZ-co0iL6oIA17wp7XWpxAZf2N8HEaU-6LI4LxgZY&usqp=CAU",
+          "legenda": "Potaro-Siparuni"
+      },
+      {
+      "Capital": "Bartica",
+          "Estado": "Cuyuni-Mazaruni",
+          "Sigla": "GU",
+          "Região": "Norte",
+          "lat": 6.404221,
+          "lon": -58.626534,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44ssjZx6oZvGE2LURmGB7PUaCER4uI0Ty2w&usqp=CAU",
+          "legenda": "Cuyuni-Mazaruni"
+      },
+      {
+      "Capital": "Linden",
+          "Estado": "Upper Demara-Berbice",
+          "Sigla": "GU",
+          "Região": "Norte",
+          "lat": 5.994735,
+          "lon": -58.308142,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPfKrenn6BlRpkO3wTwABLd7X4NUSY4L6hAnYJ7U24zmhjZYKgxHMarJBoa2dtz9LJPg&usqp=CAU",
+          "legenda": "Upper Demara-Berbice"
+      },
+      {
+      "Capital": "Fort Wellington",
+          "Estado": "Mahaica–Berbice",
+          "Sigla": "GU",
+          "Região": "Norte",
+          "lat": 6.392146,
+          "lon": -57.597427,
+          "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/14/c8/aa/fort-sw-blazeja.jpg?w=1200&h=1200&s=1",
+          "legenda": "Mahaica–Berbice"
+      },
+      {
+      "Capital": "Triumph",
+          "Estado": "Demerara–Mahaica",
+          "Sigla": "GU",
+          "Região": "Norte",
+          "lat": 6.569160,
+          "lon": -57.883310,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOEwiJSCR1TWL4T0zbzzeEzbpbrvSYECpNA&usqp=CAU",
+          "legenda": "Demerara–Mahaica"
+      },
+      {
+      "Capital": "Vreed en Hoop",
+          "Estado": "Ilhas do Essequibo–Demerara Ocidental",
+          "Sigla": "GU",
+          "Região": "Norte",
+          "lat": 6.569160,
+          "lon": -58.552374,
+          "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/dd/6f/03/sloth-island.jpg?w=500&h=300&s=1",
+          "legenda": "Ilhas do Essequibo–Demerara Ocidental"
+      },
+      {
+      "Capital": "Anna Regina",
+          "Estado": "Pomeroon–Supenaam",
+          "Sigla": "GU",
+          "Região": "Norte",
+          "lat": 7.261640,
+          "lon": -58.482029,
+          "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/67/3f/7e/the-non-aligned-monument.jpg?w=600&h=400&s=1",
+          "legenda": "Pomeroon–Supenaam"
+      },
+      {
+      "Capital": "Mabaruma",
+          "Estado": "Barima–Waini",
+          "Sigla": "GU",
+          "Região": "Norte",
+          "lat": 8.202040,
+          "lon": -59.777990,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8AJ7Xj_-yU4HHaRq8_rhRu1B7RSGZVn7gfHyNnepODLz2eccgNTVZ2KrecET4MT9hrY&usqp=CAU",
+          "legenda": "Barima–Waini"
+      }
        
 ]
