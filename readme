@@ -1,0 +1,12 @@
+# Meu Point
+
+Nosso objetivo e mostrar a localização das capitais do nosso pais e dar um ponto turistico para a pessoa visitar.
+É so inicializar o terminal e clicar no link para inicializar.
+
+
+## Referência
+- [Mapa](https://leafletjs.com/)
+- [dados de long lat](https://www.latlong.net/)
+## Autores
+
+- [Arthur Henriques](https://github.com/Arthurn31)

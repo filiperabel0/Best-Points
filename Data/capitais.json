@@ -1,0 +1,562 @@
+[
+  {
+    "Capital": "Rio Branco",
+    "Estado": "Acre",
+    "Sigla": "AC",
+    "Região": "Norte",
+    "lat": -9.058024,
+    "lon": -70.809817,
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/61/12/1b/vista-da-ponte-ao-lado.jpg?w=500&h=-1&s=1",
+    "legenda": " City Center"
+  },
+  {
+    "Capital": "Maceió",
+    "Estado": "Alagoas",
+    "Sigla": "AL",
+    "Região": "Nordeste",
+    "lat": -9.65988,
+    "lon": -36.694939,
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/57/a6/ec/caption.jpg?w=300&h=300&s=1",
+    "legenda": "Maragogi - Barra Grande"
+  },
+  {
+    "Capital": "Macapá",
+    "Estado": "Amapá",
+    "Sigla": "AP",
+    "Região": "Norte",
+    "lat": 2.05189,
+    "lon": -50.79137,
+    "img": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/03/o-que-fazer-em-macapa-ponto-turistico.jpg",
+    "legenda": "Fortaleza de São José de Macapá"
+  },
+  {
+    "Capital": "Manaus",
+    "Estado": "Amazonas",
+    "Sigla": "AM",
+    "Região": "Norte",
+    "lat": -3.119028,
+    "lon": -60.021732,
+    "pt": "erfsk",
+    "img": "https://casalnomade.com/wp-content/uploads/2015/02/teatro-amazonas.jpg",
+    "legenda": "Teatro Amazonas"
+  },
+  {
+    "Capital": "Salvador",
+    "Estado": "Bahia",
+    "Sigla": "BA",
+    "Região": "Nordeste",
+    "lat": -12.9642,
+    "lon": -38.5058,
+    "img": "https://www.viajali.com.br/wp-content/uploads/2016/10/salvador-19.jpg",
+    "legenda": "Pelourinho"
+  },
+  {
+    "Capital": "Fortaleza",
+    "Estado": "Ceará",
+    "Sigla": "CE",
+    "Região": "Nordeste",
+    "lat": -3.7185,
+    "lon": -38.5417,
+    "img": "https://www.transportal.com.br/noticias/wp-content/uploads/2018/05/Beach-Park-1.jpg",
+    "legenda": "Beach Park"
+  },
+  {
+    "Capital": "Brasília",
+    "Estado": "Distrito Federal",
+    "Sigla": "DF",
+    "Região": "Centro-Oeste",
+    "lat": -15.826691,
+    "lon": -47.921822,
+    "img": "https://www.viagensecaminhos.com/wp-content/uploads/2016/09/brasilia-aerea-catedral.jpg",
+    "legenda": "Catedral de Brasília"
+  },
+  {
+    "Capital": "Vitória",
+    "Estado": "Espírito Santo",
+    "Sigla": "ES",
+    "Região": "Sudeste",
+    "lat": -20.316839,
+    "lon": -40.309921,
+    "img": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/02/pontos-turisticos-vitoria-es.jpg",
+    "legenda": "Catedral Metropolitana de Vitória"
+  },
+  {
+    "Capital": "Goiânia",
+    "Estado": "Goiás",
+    "Sigla": "GO",
+    "Região": "Centro-Oeste",
+    "lat": -16.680519,
+    "lon": -49.25613,
+    "img": "https://ficaativoeviaja.com.br/wp-content/uploads/2021/05/12910-Praca-Civica-1.jpg",
+    "legenda": "Praça Cívica "
+  },
+  {
+    "Capital": "São Luís",
+    "Estado": "Maranhão",
+    "Sigla": "MA",
+    "Região": "Nordeste",
+    "lat": -2.52945,
+    "lon": -44.296951,
+    "img": "https://www.viagensecaminhos.com/wp-content/uploads/2016/11/centro-historico-sao-luis-rua-portugal.jpg",
+    "legenda": "Rua Portugal"
+  },
+  {
+    "Capital": "Cuiabá",
+    "Estado": "Mato Grosso",
+    "Sigla": "MT",
+    "Região": "Centro-Oeste",
+    "lat": -15.601411,
+    "lon": -56.097893,
+    "img": "https://ficaativoeviaja.com.br/wp-content/uploads/2021/05/12933-Centro-Geodesico-da-America-do-Sul-1-768x1024.jpg",
+    "legenda": "Centro Geodésico da América do Sul "
+  },
+  {
+    "Capital": "Campo Grande",
+    "Estado": "Mato Grosso do Sul",
+    "Sigla": "MS",
+    "Região": "Centro-Oeste",
+    "lat": -20.443529,
+    "lon": -54.647758,
+    "img": "https://destinosnotaveis.com.br/wp-content/uploads/2019/06/lago-parque-nacoes-indigenas-1024x640.jpg",
+    "legenda": "Parque das Nações Indígenas."
+  },
+  {
+    "Capital": "Belo Horizonte",
+    "Estado": "Minas Gerais",
+    "Sigla": "MG",
+    "Região": "Sudeste",
+    "lat": -19.9182,
+    "lon": -43.9371,
+    "img": "https://mercure.accor.com/editorial/imagerie/article/praca-do-papa-belo-horizonte-6373_660x440.jpg",
+    "legenda": "Praça do Papa "
+  },
+  {
+    "Capital": "Belém",
+    "Estado": "Pará",
+    "Sigla": "PA",
+    "Região": "Norte",
+    "lat": -1.455729,
+    "lon": -48.490177,
+    "img": "https://1.bp.blogspot.com/-UC_qfOKKQWw/XpSVSBjYZ8I/AAAAAAAAp2k/QCM46fsoU6w8XX3UVmEjYQMZ7EwYczsVwCLcBGAsYHQ/s1600/teatro-da-paz-belem-do-para.jpg",
+    "legenda": " Theatro da Paz"
+  },
+  {
+    "Capital": "João Pessoa",
+    "Estado": "Paraíba",
+    "Sigla": "PB",
+    "Região": "Nordeste",
+    "lat": -7.119496,
+    "lon": -34.845013,
+    "img": "https://www.transportal.com.br/noticias/wp-content/uploads/2018/06/Convento-de-S%C3%A3o-Francisco-Jo%C3%A3o-pessoa.jpg",
+    "legenda": "Arte Sacra"
+  },
+  {
+    "Capital": "Curitiba",
+    "Estado": "Paraná",
+    "Sigla": "PR",
+    "Região": "Sul",
+    "lat": -25.4284,
+    "lon": -49.2733,
+    "img": "https://www.viajali.com.br/wp-content/uploads/2018/04/pontos-turisticos-de-curitiba-1.jpg",
+    "legenda": "Jardim Botânico"
+  },
+  {
+    "Capital": "Recife",
+    "Estado": "Pernambuco",
+    "Sigla": "PE",
+    "Região": "Nordeste",
+    "lat": -8.813717,
+    "lon": -36.954105,
+    "img": "https://www.buenasdicas.com/wp-content/uploads/2018/12/rua-xv-de-novembro-curitiba.jpg",
+    "legenda": "Rua das Flores"
+  },
+  {
+    "Capital": "Teresina",
+    "Estado": "Piauí",
+    "Sigla": "PI",
+    "Região": "Nordeste",
+    "lat": -5.08793,
+    "lon": -42.80098,
+    "img": " https://turistaprofissional.com/wp-content/uploads/2017/12/ponte-estaiada-teresina-min.jpg",
+    "legenda": " Mirante da ponte Estaiada"
+  },
+  {
+    "Capital": "Rio de Janeiro",
+    "Estado": "Rio de Janeiro",
+    "Sigla": "RJ",
+    "Região": "Sudeste",
+    "lat": -22.9014,
+    "lon": -43.1789,
+    "img": "https://turistaprofissional.com/wp-content/uploads/2017/12/ponte-estaiada-teresina-min.jpg",
+    "legenda": "Mirante da ponte Estaiada"
+  },
+  {
+    "Capital": "Natal",
+    "Estado": "Rio Grande do Norte",
+    "Sigla": "RN",
+    "Região": "Nordeste",
+    "lat": -5.41738,
+    "lon": -36.19577,
+    "img": "https://www.viagenscinematograficas.com.br/wp-content/uploads/2018/03/Natal-RN-O-Que-Fazer-Passeios-11.jpg",
+    "legenda": "Praia de Pipa, Tibau do Sul"
+  },
+  {
+    "Capital": "Porto Alegre",
+    "Estado": "Rio Grande do Sul",
+    "Sigla": "RS",
+    "Região": "Sul",
+    "lat": -30.034647,
+    "lon": -51.217659,
+    "img": "https://www.melhoresdestinos.com.br/wp-content/uploads/2017/10/roteiro-turismo-porto-alegre-dicas-o-que-fazer-16-820x546.jpg",
+    "legenda": "Visitar o Mercado Público de Porto Alegre"
+  },
+  {
+    "Capital": "Porto Velho",
+    "Estado": "Rondônia",
+    "Sigla": "RO",
+    "Região": "Norte",
+    "lat": -8.76107,
+    "lon": -63.885979,
+    "img": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/03/turismo-em-porto-velho.jpg",
+    "legenda": "Estrada de Ferro Madeira Mamoré"
+  },
+  {
+    "Capital": "Boa Vista",
+    "Estado": "Roraima",
+    "Sigla": "RR",
+    "Região": "Norte",
+    "lat": 2.81923,
+    "lon": -60.670658,
+    "img": "https://guiaviajarmelhor.com.br/wp-content/uploads/2016/05/Cachoeira-Yuruani.-Foto-Daniel-DAndrea-760x460-1.jpg",
+    "legenda": "Cachoeira Yuruani. Foto: Daniel Dandrea"
+  },
+  {
+    "Capital": "Florianópolis",
+    "Estado": "Santa Catarina",
+    "Sigla": "SC",
+    "Região": "Sul",
+    "lat": -27.59487,
+    "lon": -48.548222,
+    "img": "https://www.voltologo.net/wp-content/uploads/2018/10/mercado-publico-floripa-ponto-turistico.jpg.webp",
+    "legenda": "Mercado Público de Florianópolis"
+  },
+  {
+    "Capital": "São Paulo",
+    "Estado": "São Paulo",
+    "Sigla": "SP",
+    "Região": "Sudeste",
+    "lat": -23.55052,
+    "lon": -46.633308,
+    "img": "https://www.voltologo.net/wp-content/uploads/2019/01/principais-pontos-turisticos-sp-museus.jpg.webp",
+    "legenda": "MASP"
+  },
+  {
+    "Capital": "Aracajú",
+    "Estado": "Sergipe",
+    "Sigla": "SE",
+    "Região": "Nordeste",
+    "lat": -10.90935,
+    "lon": -37.074402,
+    "img": "https://viagensmerecidas.com.br/wp-content/uploads/2020/07/parque-da-sementeira.jpg",
+    "legenda": "Parque da Sementeira"
+  },
+  {
+    "Capital": "Palmas",
+    "Estado": "Tocantins",
+    "Sigla": "TO",
+    "Região": "Norte",
+    "lat": -10.18451,
+    "lon": -48.33466,
+    "img": "https://gazetadocerrado.com.br/wp-content/uploads/2019/05/Foto-3-Pal%C3%A1cio-Araguaia-foto-aldemar-ribeiro-secom-1-696x418.jpg",
+    "legenda": " Pálacio Araraguaia"
+  },
+
+     {
+      "Capital": "Buenos Aires",
+      "Estado": "Província de Buenos Aires",
+      "lat":-34.603683 ,
+      "lon":-58.381557 ,
+      "img": "https://www.melhoresdestinos.com.br/wp-content/uploads/2020/07/pontos-turisticos-buenos-aires-obelisco-754x307.jpg",
+      "legenda": "Obelisco "
+    },
+    {
+      "Capital": "san fernando del valle de catamarca",
+      "Estado": "catamarca",
+      "lat":-28.469582 ,
+      "lon":-65.779541 ,
+      "img": "https://lh5.googleusercontent.com/p/AF1QipORoC9j_U6BtQFwvxdlnOq6sRk0QA99JDfd-mJu=w464-h260-n-k-no",
+      "legenda": "Cathedral Basilica of Our Lady of the Valley "
+    },
+    {
+      "Capital": "Resistencia",
+      "Estado": "Chaco",
+      "lat":-27.449471 ,
+      "lon":-59.009781 ,
+      "img": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTX63jAJGASH4leuKxhdJT5x2grGW00vgDWOvFW-mgl-KEKBa2we343wDBIf9Ks-wF3HC6d-t_V-FRZaFTb2aesbQ",
+      "legenda": "Paseo Costanero "
+    },
+    {
+      "Capital": "Rawson",
+      "Estado": "Chubut",
+      "lat":-43.299801 ,
+      "lon":-65.098373 ,
+      "img": "https://lh5.googleusercontent.com/p/AF1QipOVv6SwbIRQF5u0OdY18q3HVWYgw1mh_Oawm9xj=w464-h260-n-k-no",
+      "legenda": "Playa Cangrejales "
+    },
+    {
+      "Capital": "Córdoba",
+      "Estado": "Córdoba",
+      "lat":-31.425734 ,
+      "lon":-64.184875 ,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDUHeBMLqNbP55ueyKOvHwgTrfp1Wm0PF8waDBLodQhI5Wn2r_YNAH5EN-rymc_OQw-XD_oCxjCVBPlOhNDbdBtw",
+      "legenda": " Mesquita-Catedral de Córdova"
+    },
+    {
+      "Capital": "Corrientes",
+      "Estado": "Corrientes",
+      "lat":-27.501921,
+      "lon":-58.812889 ,
+      "img": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTDEHWg5v6Pu2UyxSoumU3vBkQokSeZfyg0aRvhsa2_XMy5_P-NxcyCNrIAx-e-yyZ-wiKAvr4PX7FyWli1BSzAXw",
+      "legenda": "Costanera de Corrientes "
+    },
+    {
+      "Capital": "Paraná",
+      "Estado": "Entre Rios",
+      "lat":-11.938330 ,
+      "lon":-38.070332 ,
+      "img": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ1CqUg-3rYJ-VoZ4_iAomPy2EEIsj2pvIrA_y4iZrjxoXWYOMj8IgRdpfVR9ssVmc1ZNyKDQAMnXDqTzVK4TXPtQ",
+      "legenda": "Unzué Park "
+    },
+    {
+      "Capital": "Formosa",
+      "Estado": "Formosa",
+      "lat":-25.922232 ,
+      "lon":-58.315430 ,
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/26/93/d2/img-20170113-210333-largejpg.jpg?w=1200&h=1200&s=1",
+      "legenda": "Fuente de agua danzante de la Costanera Vuelta Fermoza de la CIudad de Formosa "
+    },
+    {
+      "Capital": "San Salvador de Jujuy",
+      "Estado": "Jujuy",
+      "lat":-25.922232 ,
+      "lon":-58.315430 ,
+      "img": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSDE36tKUejsd6KdkPCy-O6oglAOt_QlkGL-1YjFie6l64R23Q_ruJhZUf4ASzAbe4-waqwdsc-aTwLxVx5g67p2g",
+      "legenda": "Plaza Belgrano "
+    },
+    {
+      "Capital": " Santa Rosa",
+      "Estado": "La Pampa",
+      "lat":-36.626270 ,
+      "lon":-64.291313 ,
+      "img": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQ-xS3imQ1k3VcApMQodsKY9MJYv6wj3Y_kiP1MTEIeJExRP52T8Y5CB8MW3hQp5SlHzrzJAPOCJoRk28TdimY7Og",
+      "legenda": "Recreativo Laguna Don Tomás Santa Rosa Park "
+    },
+    {
+      "Capital": "A Rioja",
+      "Estado": "A Rioja",
+      "lat":-13.481230 ,
+      "lon":-72.445760 ,
+      "img": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/01/de/b1.jpg",
+      "legenda": "Talampaya e o Vale da Lua de La Rioja "
+    },
+    {
+      "Capital": "Mendoza",
+      "Estado": "Mendoza",
+      "lat":-32.889458 ,
+      "lon": -68.845840,
+      "img": "https://bnu.brasileirosnargentina.com.br/wp-content/uploads/2017/03/Cavalos-de-Marly-Mendoza-Argentina-4-800x600.jpg",
+      "legenda": "Cavalos de Marly "
+    },
+    {
+      "Capital": "Posadas",
+      "Estado": "Misiones",
+      "lat": -27.362137,
+      "lon":-55.900875 ,
+      "img": "https://www.melevaviajar.com.br/wp-content/uploads/2021/06/O-que-fazer-em-Posadas-Argentina-casario.jpg",
+      "legenda": "Casarão histórico da antiga Sociedade Italiana de Posadas. "
+    },
+    {
+      "Capital": "Neuquén",
+      "Estado": "Neuquén",
+      "lat": -38.951679,
+      "lon": -68.059189,
+      "img": "data:image/jpeg;base64,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",
+      "legenda": "Museo Nacional De Bellas Artes Neuquen "
+    },
+    {
+      "Capital": "Viedma",
+      "Estado": "Rio Negro",
+      "lat":-40.806969 ,
+      "lon": -63.009022,
+      "img": "https://i0.wp.com/manualdoturista.com.br/wp-content/uploads/2013/02/Trem-na-Patag%C3%B4nia-Argentina.jpg?w=600&ssl=1",
+      "legenda": "Viedma. Trem na Patagônia Argentina, foto Melina Castro "
+    },
+    {
+      "Capital": "Salta",
+      "Estado": "Salta",
+      "lat": -24.782127,
+      "lon":-65.423195 ,
+      "img": "https://www.queroviajarmais.com/wp-content/webp-express/webp-images/uploads/2020/05/pts-salta-catedral_.jpg.webp",
+      "legenda": "Catedral de Salta "
+    },
+    {
+      "Capital": "San Juan",
+      "Estado": "San Juan",
+      "lat":-31.537430 ,
+      "lon":-68.524827 ,
+      "img": "https://i0.wp.com/manualdoturista.com.br/wp-content/uploads/2013/02/Provincia-de-San-Juan-.jpg?w=650&ssl=1",
+      "legenda":"Parque Provincial Ischigualasto"
+ 
+    },
+    {
+      "Capital": "San Luis",
+      "Estado": "San Luis",
+      "lat":-34.052091 ,
+      "lon": 66.149824,
+      "img": "https://photo620x400.mnstatic.com/cd09a8b187aefdde24144a78067f3d99/merlo.jpg?quality=70&format=pjpg",
+      "legenda": "Merlo "
+    },
+    {
+      "Capital": "Rio Gallegos",
+      "Estado": "Santa Cruz",
+      "lat":-51.630920 ,
+      "lon":-69.224777 ,
+      "img": "https://i0.wp.com/manualdoturista.com.br/wp-content/uploads/2013/02/Laguna-Azul-Rio-Gallegos.jpg?w=650&ssl=1",
+      "legenda": "Rio Gallegos, Laguna Azul "
+    },
+    {
+      "Capital": "Santa Fé",
+      "Estado": "Santa Fé",
+      "lat": -31.625175,
+      "lon":-60.701065 ,
+      "img": "https://photo620x400.mnstatic.com/8479dc7f454cfe9e09dd7db0989bc15d/monumento-a-bandeira.jpg?quality=70&format=pjpg",
+      "legenda": "Monumento à Bandeira "
+    },
+    {
+      "Capital": "Santiago del Estero",
+      "Estado": "Santiago del Estero",
+      "lat":-27.786970 ,
+      "lon":-64.262108 ,
+      "img": "https://photo620x400.mnstatic.com/9b88c34a8f449ace00b17a66292b0088/belgrano-square.jpg?quality=70&format=pjpg",
+      "legenda": "Belgrano Square "
+    },
+    
+    {
+      "Capital": "Ushuaia",
+      "Estado": "Terra do Fogo",
+      "lat": -54.801910,
+      "lon":-68.302948 ,
+      "img": "https://www.brasileirosemushuaia.com.br/wordpress/wp-content/uploads/2018/08/capa1.jpg",
+      "legenda": "A famosa placa Ushuaia Fin del Mundo "
+    },
+    {
+      "Capital": "San Miguel",
+      "Estado": "Tucumán",
+      "lat":-26.830139 ,
+      "lon":-65.225670 ,
+      "img": "https://s7a5n8m2.stackpathcdn.com/wp-content/uploads/2022/07/Parque-Terranostra-sao-miguel-4.jpg",
+      "legenda": "Parque Terranostra "
+    },
+    { 
+      "Capital": "Coquimbo",
+      "Estado": "La Serena",
+      "Sigla": "CO",
+      "Região": "Norte",
+      "lat": -29.960220,
+      "lon": -71.317032,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YDX-1yI4kZtCtQEshpFb_quca6KDa5yHXQ&usqp=CAU",
+      "legenda": "La Serena"
+    },
+  {
+    "Capital": "Aconcagua.",
+      "Estado": "Mendonza",
+      "Sigla": "Me",
+      "Região": "Centro-Norte",
+      "lat": -32.653179,
+      "lon": -70.010864,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPu3ziHKdU8IRmsP-oXOL28aev8dj7TZTXg&usqp=CAU",
+      "legenda": "Pico Aconcagua"
+  },
+  {
+  "Capital": "Santiago",
+      "Estado": "Santiago",
+      "Sigla": "SA",
+      "Região": "Centro",
+      "lat": -33.448891,
+      "lon": -70.669266,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjHwK2AxcKouqOxEB5ffStgAkvJuGNTVJ_g&usqp=CAU",
+      "legenda": "Santiago"
+  },
+  {
+    "Capital": "San Fernando",
+      "Estado": "Colchagua",
+      "Sigla": "CO",
+      "Região": "Centro",
+      "lat": -34.586578,
+      "lon": -70.987907,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcDgAQUbsKKri9BH-grzhYWKRzrnLqdkVaWw&usqp=CAU",
+      "legenda": " San Fernando"
+  },
+  {
+  "Capital": "Maule",
+      "Estado": "Maule",
+      "Sigla": "MA",
+      "Região": "Centro",
+      "lat": -35.520950,
+      "lon": -71.691597,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YDPjNcagMHj17jjZjo_Zvt6UoNVnC8zygg&usqp=CAU",
+      "legenda": "Rotas do Vinho"
+  },
+  {
+  "Capital": "Concepción",
+      "Estado": "Concepción",
+      "Sigla": "CON",
+      "Região": "Centro",
+      "lat":-36.817371,
+      "lon": -73.063629,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcaFhpkF74IX26CY2yTR54aPtXsQncJFRjw&usqp=CAU",
+      "legenda": "Universidade de Concepcion"
+  },
+  {
+   "Capital": "Chiloé",
+      "Estado": "Chiloé",
+      "Sigla": "CH",
+      "Região": "Sul",
+      "lat": -42.616890,
+      "lon": -73.245209,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5mornwsvzuc0srjGOQ_teOoxY60Bnr05BA&usqp=CAU",
+      "legenda": "Chiloé"
+  },
+
+{
+"Capital": "Los Lagos",
+    "Estado": "Los Lagos",
+    "Sigla": "CH",
+    "Região": "Sul",
+    "lat": -39.860039,
+    "lon": -72.806396,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83rS3EioWDgX_en7_RRc8Q8RxlGs8xMWt-Q&usqp=CAU",
+    "legenda": "Los Lagos"
+},
+{
+"Capital": "Aisén",
+    "Estado": "Aisén",
+    "Sigla": "CH",
+    "Região": "Sul",
+    "lat": -28.582450,
+    "lon": -70.742670,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpN5c0uhDdS9ZXUq47Y-3-m9F9cc_pMielyQ&usqp=CAU",
+    "legenda": "Aisén"
+},
+{
+"Capital": "Magallanes",
+    "Estado": "Magallanes",
+    "Sigla": "CH",
+    "Região": "Sul",
+    "lat": -48.591390,
+    "lon": -68.011420,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpN5c0uhDdS9ZXUq47Y-3-m9F9cc_pMielyQ&usqp=CAU",
+    "legenda": "Magallanes"
+}
+       
+]

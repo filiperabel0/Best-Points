@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!--link do css do mapa fornecido pela Leaflet-->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+      integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+      crossorigin=""
+    />
+    <!--link do Js do mapa fornecido pela Leaflet-->
+    <script
+      src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+      integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+      crossorigin=""
+    ></script>
+    <!--Link do css interno dos outros intens tirando o mapa-->
+    <link rel="stylesheet" href="/css/style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav role="navigation">
+      <div class="menuToggle">
+        <input type="checkbox" />
+        <span></span>
+        <span></span>
+        <span></span>
+        <ul class="menu">
+          <a href="/login"><li>Login</li></a>
+          <a href="/cadastro"><li>Cadastro</li></a>
+          <a href="/home.ejs"><li>Home</li></a>
+        </ul>
+      </div>
+    </nav>
+      <div class="logo">
+        <img src="img/logobest.png" alt="" class="logobest" />
+      </div>
+    </nav>
+    <!--fim do menu-->
+    <div class="ajustarmap">
+    <div id="mapid"></div>
+    </div>
+    <!--inicio do rodape-->
+    <footer id="myFooter">
+      <div class="container">
+        <ul>
+          <li>
+            <a href="https://www.linkedin.com/in/arthur-henriques-1b511820b/"
+              ><img src="/img/174857.png" height="40" width="40"
+            /></a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/"> 
+              <img src="/img/image.png" height="40" width="40" /></a>
+          </li>
+          <li>
+            <a href="https://web.whatsapp.com/"
+              ><img src="/img/whatsapp-logo-1.png" height="40" width="40"
+            /></a>
+          </li>
+        </ul>
+        <p class="footer-copyright">
+          © 2022 Copyright - Best Points - Todos os direitos reservados.
+        </p>
+      </div>
+    </footer>
+    <!--fim do rodape-->
+    <!--inicio do mapa-->
+    <!--inicio do js interno para fazer as função do mapa funcionarem-->
+
+    <script>
+      //variavel para exibir o mapa
+      const mymap = L.map('mapid').setView([-19.126536, -45.947756], 3)
+      const imprimir = []
+      var position = []
+      var state = []
+      var stateName = []
+      var Name = []
+      console.log(L)
+      //fim das variaveis
+      //codigo para exibir o mapa
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(mymap)
+    </script>
+
+    <% pt.forEach(e =>{ %>
+    <script>
+      console.log('e')
+      L.marker(['<%= e.lat %>', '<%= e.lon %>']).addTo(mymap).bindPopup(
+        `<div class= "bindPopup" >
+            <%=e.Estado  %><br> <%= e.Capital %><br><img   src="<%= e.img %>"><br><%= e.legenda %>
+            </div> `
+      )
+    </script>
+
+    <% }) %>
+
+    <!--fim do copro do texto-->
+  </body>
+</html>
