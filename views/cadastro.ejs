@@ -1,32 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/css/cadastro.css">
-  <title>Document</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/cadastro.css" />
+    <title>Document</title>
+  </head>
+  <body>
     <div class="App">
       <div class="login-box">
         <h1>Cadastro</h1>
-          <form action="/cadastro" method="POST">
-            <div class="user-box">
-                <input class="user-box" type="text" name="nome" placeholder="nome" />
-                <input class="user-box" type="text" name="usuario" placeholder="usuario" />
-                <input class="user-box" type="text" name="email" placeholder="email" />
-                <input class="user-box" type="text" name="senha" placeholder="senha" />
-                <button type="submit" class="register-button">Salvar</button>
-                <br>
-                <h4>Acesse aqui <a class="linklogin" href="/login">login</a></h4>  
+        <form action="/cadastro" method="POST">
+          <div class="user-box">
+            <input
+              class="user-box"
+              type="text"
+              name="nome"
+              placeholder="Nome"
+            />
+            <input
+              class="user-box"
+              type="text"
+              name="usuario"
+              placeholder="Usuario"
+            />
+            <input
+              class="user-box"
+              type="text"
+              name="email"
+              placeholder="Email"
+            />
+            <input
+              class="user-box"
+              type="text"
+              name="senha"
+              placeholder="Senha"
+            />
+            <div class="button-salvar">
+              <button type="submit" class="register-button">Salvar</button>
             </div>
-          </form>
-         
+            <h4>Faça <a class="linklogin" href="/login">Login</a></h4>
+          </div>
+        </form>
       </div>
     </div>
-    
-
-   
   </body>
 </html>

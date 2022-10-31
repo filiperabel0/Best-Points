@@ -43,14 +43,19 @@ body {
   position: relative;
 }
 
-
-
+.buttons-login{
+  display: flex;
+  justify-content: space-between;
+}
 
 .register-button{
   border-radius: 5px;
     border-color: whitesmoke;
     margin-top: 15px;
-    margin-left: 5%;
+
+    display: flex;
+    justify-content: center;
+
     width: 135px;
     padding: 10px;
     font-size: 1em;
